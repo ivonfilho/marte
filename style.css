@@ -1,0 +1,13 @@
+/*
+Theme Name:     Marte
+Theme URI: 		http://ivonfilho.com 
+Author:         Ivon Filho
+ * Version: 1.0
+ * Author URI:  http://ivonfilho.com
+Template:       jupiter
+Text Domain: mk_framework
+Domain Path: /languages/
+*/
+
+@import url(fontes/stylesheet.css);
+@import url(css/styles.min.css);

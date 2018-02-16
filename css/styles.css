@@ -1,0 +1,76 @@
+body,
+p,
+.mk-fancy-title p,
+.mk-mini-callout p,
+.mk-title-box p,
+.pricing-offer-grid p {
+	font-family: 'Simplifica' !important;
+	letter-spacing: 1px;
+}
+
+.portfolio-similar-meta .the-title {
+	color: #fff;
+	font-size: 25px;
+	line-height: 18px;
+	font-weight: normal;
+	letter-spacing: 1px;
+}
+
+.mk-portfolio-item.light-zoomin-hover.five-column .portfolio-meta .the-title,
+.mk-portfolio-item.light-zoomin-hover.four-column .portfolio-meta .the-title,
+.mk-portfolio-item.light-zoomin-hover.six-column .portfolio-meta .the-title {
+	font-size: 25px!important;
+	letter-spacing: 3px;
+}
+
+.mk-portfolio-item .the-title {
+	padding: 0 20px;
+	font-size: 25px!important;
+	line-height: 28px!important;
+	font-weight: normal;
+	margin-bottom: 15px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: #fff!important;
+}
+
+.add-header-height,
+.header-style-1 .mk-header-inner .mk-header-search,
+.header-style-1 .menu-hover-style-1 .main-navigation-ul > li > a,
+.header-style-1 .menu-hover-style-2 .main-navigation-ul > li > a,
+.header-style-1 .menu-hover-style-4 .main-navigation-ul > li > a,
+.header-style-1 .menu-hover-style-5 .main-navigation-ul > li,
+.header-style-1 .menu-hover-style-3 .main-navigation-ul > li,
+.header-style-1 .menu-hover-style-5 .main-navigation-ul > li {
+	border-bottom: 1px solid #f5f5f5;
+}
+
+#mk-footer .widget {
+	margin-bottom: 0;
+}
+
+.icons-holder {
+	display: none !important;
+}
+
+.portfolio-similar-posts {
+	border-bottom: 1px solid #dfe2e5;
+}
+
+#mk-footer {
+	padding: 0
+}
+
+img.mk-sticky-logo {
+	max-height: 75% !important;
+}
+
+.display-none,
+.single-portfolio .featured-image,
+section#mk-page-introduce {
+	display: none;
+}
+
+.mk-header {
+	border-bottom: none !important;
+}
